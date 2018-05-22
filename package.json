@@ -1,8 +1,8 @@
 {
-  "name": "dark-side-of-the-moon-syntax",
+  "name": "dark-side-of-the-moon-syntax-codeclan",
   "theme": "syntax",
   "version": "0.6.47",
-  "description": "A darker and peaceful syntax theme « Dark Side Of The Moon »",
+  "description": "A darker and peaceful syntax theme « Dark Side Of The Moon » Codeclan Fork",
   "keywords": [
     "syntax",
     "theme",
@@ -13,7 +13,7 @@
     "green",
     "coral"
   ],
-  "repository": "https://github.com/thierryc/dark-side-of-the-moon-syntax",
+  "repository": "https://github.com/thierryc/dark-side-of-the-moon-syntax-codeclan",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

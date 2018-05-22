@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2016 Thierry Charbonnel
+Copyright (c) 2016 Thierry Charbonnel, changes Pawel Orzechowski
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

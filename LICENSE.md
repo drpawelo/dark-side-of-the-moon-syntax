@@ -1,8 +1,8 @@
 The MIT License (MIT)
 
-Copyright (c) 2016 Thierry Charbonnel, (c) 2018 Pawel Orzechowski, CodeClan
+Copyright (c) 2016 Thierry Charbonnel, (c) 2018 CodeClan
 
-Copyright for portions of project Dark Side of the Moon Syntax CodeClan are held by Thierry Charbonnel, 2016 as part of project Dark Side of the Moon Syntax. All other copyright for project Foo are held by Pawel Orzechowski, CodeClan, 2018.
+Copyright for portions of project Dark Side of the Moon Syntax CodeClan are held by Thierry Charbonnel, 2016 as part of project Dark Side of the Moon Syntax. All other copyright for project Foo are held by CodeClan, 2018.
 
 
 Permission is hereby granted, free of charge, to any person obtaining
